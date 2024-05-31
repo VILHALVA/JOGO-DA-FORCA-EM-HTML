@@ -18,4 +18,3 @@ Para jogar, tente acertar a palavra oculta, guiando-se apenas por seu tamanho. D
 ## CREDITOS:
 - [PROJETO CRIADO PELO "C836"](https://github.com/C836/Jogo-da-forca)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
